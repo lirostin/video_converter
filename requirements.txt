@@ -1,0 +1,6 @@
+ffmpeg-python
+pyinstaller
+
+isort
+black
+flake8
